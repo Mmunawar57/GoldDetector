@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Altın Dedektörü</string>
+    <!-- TODO: Bu yer tutucu metni kaldırın veya değiştirin -->
+    <string name="hello_blank_fragment">Merhaba boş fragman</string>
+    <string name="how_to_use">Nasıl kullanılır?</string>
+    <string name="open">açık</string>
+    <string name="close">kapalı</string>
+    <string name="gold_welcome">Altın Dedektörü ve Altın Bulucu uygulamasına hoş geldiniz 2022.\n Altın Dedektörü ve Altın Bulucu uygulaması\n çevresinizdeki herhangi bir altını bulmanıza yardımcı olacak</string>
+
+    <string name="instructions">Bir altın dedektörü, yakınlarda metal varlığını tespit eden elektronik bir cihazdır. Altın dedektörleri, nesnelerin içinde gizlenmiş altın içeriklerini veya yerin altına gömülmüş altın nesnelerini bulmak için kullanışlıdır. Bu uygulama altını kolayca tespit edebilir ve gömülü manyetik alanı bir entegre manyetik sensörle ölçer. Sensör bir metal parçasına yaklaştığında, kulaklıklarda değişen bir ton veya göstergede hareket eden bir iğne ile belirtilir. Ayrıca demir, nikel, bakır, pirinç, alüminyum, kurşun, altın, gümüş ve bronz gibi metalleri tespit eder. Genel amaçlı metal dedektörleri mücevher, madeni para ve diğer metal nesneler gibi gömülü metal nesnelerini bulabilir. Ayırt etme, farklı metal hedefleri veya alaşımlar arasında ayrım yapar.</string>
+
+    <string name="gold_detector">ALTIN DEDAKTÖRÜ</string>
+    <string name="splash_app_name">Altın Dedektörü Uygulaması</string>
+    <string name="btn_gold">Altın\nDedektörü</string>
+    <string name="btn_metal">Metal Dedektörü</string>
+    <string name="tips_tricks"><![CDATA[Tüyolar ve İpuçları]]></string>
+    <string name="capital_gold_detector">ALTIN\n DEDAKTÖRÜ</string>
+    <string name="metal_and_gold_finder">Metal ve Altın Bulucu</string>
+    <string name="this_action_may_contain_add">Bu eylem reklam içerebilir</string>
+    <string name="txt_welcome_lorem">Lorem ipsum, yaygın bir yer tutucu metin türü için bir isimdir</string>
+    <string name="continue_button">Devam</string>
+    <string name="start_button">Başlat</string>
+    <string name="welcome_app_name">Altın Metal Dedektörü Uygulaması</string>
+    <string name="choseLanguage">Dil Seçin</string>
+    <string name="potential_camera_small_speaker_detected">Potansiyel kamera/küçük hoparlör algılandı</string>
+    <string name="value1">45:00</string>
+    <string name="value2">45:00</string>
+    <string name="value3">45:00</string>
+    <string name="digital_meter">DİJİTAL METRE</string>
+    <string name="features">Özellikler</string>
+
+    <string name="analog_meter">ANALOG METRE</string>
+    <string name="_45_00">45,00</string>
+    <string name="potential">Potansiyel kamera/küçük hoparlör algılandı</string>
+    <string name="computer_mobile_tv_detected">Bilgisayar/Cep Telefonu/TV Algılandı</string>
+    <string name="gold_detctor">Altın Dedektörü:</string>
+    <string name="instruction">Kurallar</string>
+    <string name="skip">Bitir</string>
+    <string name="are_you_sure_you_want_to_exit">Çıkmak istediğinizden emin misiniz?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="more_apps">Daha Fazla Uygulama</string>
+    <string name="rate_us">Bizi Değerlendirin</string>
+    <string name="languages">Diller</string>
+    <string name="graphs_meter">Grafikler Metre</string>
+    <string name="digital_meter_feature">Dijital Metre</string>
+    <string name="analog_meter_feature">Analog Metre</string>
+    <string name="calibration_detector">Kalibrasyon Dedektörü</string>
+    <string name="gold_detector_feature">ALTIN DEDAKTÖRÜ</string>
+    <string name="graph_view">Grafik Görünümü</string>
+    <string name="metal_detector">Metal Dedektörü</string>
+
+    <string name="potential_camera_small_speaker_detected_graph">Potansiyel kamera/küçük hoparlör tespit edildi</string>
+    <string name="calibration_detection">KALİBRASYON TESPİTİ</string>
+    <string name="no_potential_camera_detected">Potansiyel Kamera Bulunamadı</string>
+    <string name="computer_tv_mobile_detected">Bilgisayar/TV/Cep Telefonu Algılandı</string>
+    <string name="potential_small_speaker_detected">Potansiyel Kamera / Küçük Hoparlör Algılandı</string>
+    <string name="camera_detected">Kamera Algılandı</string>
+    <string name="high_radiation_detected">Yüksek Radyasyon Algılandı</string>
+    <string name="other_high_radiation_metal_detected">Diğer Yüksek Radyasyonlu Metal Algılandı</string>
+    <string name="material_detected">Madde Algılandı</string>
+    <string name="potential_material_detected">Potansiyel Madde Algılandı</string>
+    <string name="mineral_resources_detected">Mineral Kaynakları Algılandı</string>
+    <string name="instructions1">Bir altın dedektörü, yakınlardaki metal varlığını algılayan bir elektronik cihazdır. Altın dedektörleri, nesnelerin içinde gizlenmiş altın parçacıklarını veya yeraltında gömülü altın nesnelerini bulmak için kullanışlıdır. Bu uygulama altını kolayca algılayabilir ve yerleşik manyetik sensörle manyetik alanını ölçer.</string>
+    <string name="lorem_ipsum_is_a_1">Hassas metal tespiti ile doğru altın lokalizasyonu.</string>
+    <string name="lorem_ipsum_is_a_2">Özelleştirilebilir algılama tercihleri için ayarlanabilir hassasiyet.</string>
+    <string name="lorem_ipsum_is_a_3">Kolaylık için gerçek zamanlı geri bildirim ve görsel ekran.</string>
+    <string name="lorem_ipsum_is_a_4">Kullanımı kolay ve gezinme için kullanıcı dostu arayüz.</string>
+    <string name="splash_feature">Hedeflenen Altın Algılama ve Minimum Müdahale için Akıllı Ayırma Teknolojisi.</string>
+
+
+</resources>

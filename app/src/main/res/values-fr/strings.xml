@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Détecteur dor</string>
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="how_to_use">Comment utiliser ?</string>
+    <string name="open">ouvrir</string>
+    <string name="close">fermer</string>
+    <string name="gold_welcome">Bienvenue dans lapplication Détecteur dor &amp; Chercheur dor 2022.\nLapplication Détecteur dor &amp; Chercheur dor\nvous aidera à détecter tout or,\ndissimulé autour de vous</string>
+    <string name="instructions">Un détecteur dor est un instrument électronique qui détecte la présence de métal à proximité. Les détecteurs dor sont utiles pour trouver des inclusions dor cachées dans des objets, ou des objets en or enfouis sous terre. Cette application peut facilement détecter lor et mesurer le champ magnétique avec un capteur magnétique intégré. Si le capteur se rapproche dun morceau de métal, cela est indiqué par une variation de ton dans les écouteurs, ou une aiguille qui se déplace sur un indicateur. Il détecte également des métaux tels que : le fer, le nickel, le cuivre, le laiton, laluminium, le plomb, lor, largent et le bronze. Les détecteurs de métaux polyvalents peuvent trouver des objets métalliques enfouis tels que des bijoux, des pièces de monnaie et dautres objets en métal. La discrimination est un processus qui distingue différents objectifs métalliques ou alliages.</string>
+    <string name="gold_detector">DÉTECTEUR DOR</string>
+    <string name="splash_app_name">Application Détecteur dor</string>
+    <string name="btn_gold">Détecteur\n dor</string>
+    <string name="btn_metal">Détecteur de métal</string>
+    <string name="tips_tricks"><![CDATA[Astuces et conseils]]></string>
+    <string name="capital_gold_detector">DÉTECTEUR DOR</string>
+    <string name="metal_and_gold_finder">Chercheur de métal et dor</string>
+    <string name="this_action_may_contain_add">Cette action peut contenir une publicité</string>
+    <string name="txt_welcome_lorem">Lorem ipsum est un nom courant pour un texte fictif</string>
+    <string name="continue_button">Continuer</string>
+    <string name="start_button">Démarrer</string>
+    <string name="metal_detector">Détecteur de métal</string>
+
+    <string name="welcome_app_name">Application détecteur de métal en or</string>
+    <string name="choseLanguage">Sélectionnez la langue</string>
+    <string name="potential_camera_small_speaker_detected">Détection potentielle de caméra/petit haut-parleur</string>
+    <string name="value1">45:00</string>
+    <string name="value2">45:00</string>
+    <string name="value3">45:00</string>
+    <string name="digital_meter">COMPTEUR NUMÉRIQUE</string>
+    <string name="features">Fonctionnalités</string>
+
+    <string name="analog_meter">COMPTEUR ANALOGIQUE</string>
+    <string name="_45_00">45,00</string>
+    <string name="potential">Détection potentielle de caméra/petit haut-parleur</string>
+    <string name="computer_mobile_tv_detected">Ordinateur/Mobile/TV détecté</string>
+    <string name="gold_detctor">Détecteur dor :</string>
+    <string name="instruction">Instructions</string>
+    <string name="skip">Terminer</string>
+    <string name="are_you_sure_you_want_to_exit">Êtes-vous sûr de vouloir quitter ?</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="more_apps">Plus dapplications</string>
+    <string name="rate_us">Évaluez-nous</string>
+    <string name="languages">Langues</string>
+    <string name="graphs_meter">Graphique de mètres</string>
+    <string name="digital_meter_feature">Compteur numérique</string>
+    <string name="analog_meter_feature">Compteur analogique</string>
+    <string name="calibration_detector">Détecteur de calibration</string>
+    <string name="gold_detector_feature">Détecteur dor</string>
+    <string name="graph_view">Vue du graphique</string>
+    <string name="potential_camera_small_speaker_detected_graph">Détection potentielle de caméra/petit haut-parleur</string>
+    <string name="calibration_detection">DETECTION DE CALIBRAGE</string>
+    <string name="no_potential_camera_detected">Aucune caméra potentielle détectée</string>
+    <string name="computer_tv_mobile_detected">Ordinateur/TV/Mobile détecté</string>
+    <string name="potential_small_speaker_detected">Détection potentielle dune caméra/petit haut-parleur</string>
+    <string name="camera_detected">Caméra détectée</string>
+    <string name="high_radiation_detected">Haute radiation détectée</string>
+    <string name="other_high_radiation_metal_detected">Autres métaux à haute radiation détectés</string>
+    <string name="material_detected">Matériau détecté</string>
+    <string name="potential_material_detected">Matériau potentiellement détecté</string>
+    <string name="mineral_resources_detected">Ressources minérales détectées</string>
+
+    <string name="instructions1">Un détecteur dor est un instrument électronique qui détecte la présence de métal à proximité. Les détecteurs dor sont utiles pour repérer des inclusions dor cachées dans des objets ou des objets en or enterrés sous terre. Cette application peut détecter facilement lor et mesure son champ magnétique grâce à un capteur magnétique intégré.</string>
+    <string name="lorem_ipsum_is_a_1">Détection de métal précise pour une localisation précise de lor.</string>
+    <string name="lorem_ipsum_is_a_2">Sensibilité réglable pour des préférences de détection personnalisées.</string>
+    <string name="lorem_ipsum_is_a_3">Retour dinformation en temps réel et affichage visuel pour plus de commodité.</string>
+    <string name="lorem_ipsum_is_a_4">Interface conviviale pour une navigation et une utilisation faciles.</string>
+    <string name="splash_feature">Technologie de discrimination intelligente pour une détection ciblée de lor et une interférence minimale.</string>
+
+
+</resources>

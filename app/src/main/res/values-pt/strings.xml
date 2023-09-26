@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Detector de Ouro</string>
+    <!-- TODO: Remover ou alterar este texto de marcador de posição -->
+    <string name="hello_blank_fragment">Olá fragmento vazio</string>
+    <string name="how_to_use">Como usar?</string>
+    <string name="open">abrir</string>
+    <string name="close">fechar</string>
+    <string name="gold_welcome">Bem-vindo ao aplicativo Detector de Ouro &amp; Localizador de Ouro 2022.\n O aplicativo Detector de Ouro &amp; Localizador de Ouro\n vai ajudar você a detectar qualquer ouro,\n presente ao seu redor</string>
+    <string name="metal_detector">Detector de Metais</string>
+
+    <string name="instructions">Um detector de ouro é um instrumento eletrônico que detecta a presença de metal nas proximidades. Os detectores de ouro são úteis para encontrar inclusões de ouro escondidas dentro de objetos ou objetos de ouro enterrados no solo. Este aplicativo pode detectar facilmente o ouro e medir o campo magnético com um sensor magnético incorporado. Se o sensor se aproximar de um pedaço de metal, isso é indicado por uma mudança de tom nos fones de ouvido ou uma agulha se movendo em um indicador. Ele também detecta metais como: ferro, níquel, cobre, latão, alumínio, chumbo, ouro, prata e bronze. Detectores de metal de uso geral podem encontrar objetos de metal enterrados, como joias, moedas e outros objetos de metal. A discriminação é um processo que distingue entre diferentes alvos de metal ou ligas.</string>
+    <string name="gold_detector">DETECTOR DE OURO</string>
+    <string name="splash_app_name">Aplicativo Detector de Ouro</string>
+    <string name="btn_gold">Ouro\nDetector</string>
+    <string name="btn_metal">Detector de Metal</string>
+    <string name="tips_tricks"><![CDATA[Dicas e Truques]]></string>
+    <string name="capital_gold_detector">OURO\nDETECTOR</string>
+    <string name="metal_and_gold_finder">Localizador de Metal e Ouro</string>
+    <string name="this_action_may_contain_add">Esta ação pode conter anúncio</string>
+    <string name="txt_welcome_lorem">Lorem ipsum é um nome comum para texto de marcador de posição</string>
+    <string name="continue_button">Continuar</string>
+    <string name="start_button">Iniciar</string>
+    <string name="welcome_app_name">Aplicativo Detector de Metal de Ouro</string>
+    <string name="choseLanguage">Selecione o Idioma</string>
+    <string name="potential_camera_small_speaker_detected">Potencial câmera/alto-falante detectado</string>
+    <string name="value1">45:00</string>
+    <string name="value2">45:00</string>
+    <string name="value3">45:00</string>
+    <string name="digital_meter">MEDIDOR DIGITAL</string>
+    <string name="features">Recursos</string>
+
+    <string name="analog_meter">MEDIDOR ANALÓGICO</string>
+    <string name="_45_00">45,00</string>
+    <string name="potential">Potencial câmera/alto-falante detectado</string>
+    <string name="computer_mobile_tv_detected">Computador/Móvel/TV Detectado</string>
+    <string name="gold_detctor">Detector de Ouro:</string>
+    <string name="instruction">Instruções</string>
+    <string name="skip">Concluir</string>
+    <string name="are_you_sure_you_want_to_exit">Tem certeza de que deseja sair?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="more_apps">Mais Aplicativos</string>
+    <string name="rate_us">Avalie-nos</string>
+    <string name="languages">Idiomas</string>
+    <string name="graphs_meter">Medidor de Gráficos</string>
+    <string name="digital_meter_feature">Medidor Digital</string>
+    <string name="analog_meter_feature">Medidor Analógico</string>
+    <string name="calibration_detector">Detector de Calibração</string>
+    <string name="gold_detector_feature">DETECTOR DE OURO</string>
+    <string name="graph_view">Visualização de Gráfico</string>
+    <string name="potential_camera_small_speaker_detected_graph">Potencial detetado de câmera/pequeno alto-falante</string>
+    <string name="calibration_detection">DETEÇÃO DE CALIBRAÇÃO</string>
+    <string name="no_potential_camera_detected">Nenhuma Câmera Potencial Detectada</string>
+    <string name="computer_tv_mobile_detected">Computador/TV/Celular Detectado</string>
+    <string name="potential_small_speaker_detected">Potencial de Câmera/Pequeno Alto-falante Detectado</string>
+    <string name="camera_detected">Câmera Detectada</string>
+    <string name="high_radiation_detected">Alta Radiação Detectada</string>
+    <string name="other_high_radiation_metal_detected">Outro Metal de Alta Radiação Detectado</string>
+    <string name="material_detected">Material Detectado</string>
+    <string name="potential_material_detected">Potencial Material Detectado</string>
+    <string name="mineral_resources_detected">Recursos Minerais Detectados</string>
+
+    <string name="instructions1">Um detector de ouro é um instrumento eletrônico que detecta a presença de metal nas proximidades. Detectores de ouro são úteis para encontrar inclusões de ouro escondidas dentro de objetos ou objetos de ouro enterrados no subsolo. Este aplicativo pode facilmente detectar ouro e medir seu campo magnético com um sensor magnético embutido.</string>
+    <string name="lorem_ipsum_is_a_1">Detecção precisa de metal para uma localização precisa do ouro.</string>
+    <string name="lorem_ipsum_is_a_2">Sensibilidade ajustável para preferências de detecção personalizadas.</string>
+    <string name="lorem_ipsum_is_a_3">Feedback em tempo real e exibição visual para conveniência.</string>
+    <string name="lorem_ipsum_is_a_4">Interface amigável para navegação e uso fácil.</string>
+    <string name="splash_feature">Tecnologia de Discriminação Inteligente para Detecção de Ouro Direcionada e Mínima Interferência.</string>
+
+
+
+
+</resources>

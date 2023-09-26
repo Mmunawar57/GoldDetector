@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Детектор золота</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Привет, пустой фрагмент</string>
+    <string name="how_to_use">Как использовать\?</string>
+    <string name="open">открыть</string>
+    <string name="close">закрывать</string>
+    <string name="gold_welcome"><![CDATA[Добро пожаловать в приложение Gold Detector & Gold Finder 2022.\n Приложение Gold Detector & Gold Finder\n поможет вам обнаружить любое золото\nгвоздь вокруг вас.]]></string>
+    <string name="metal_detector">Металлодетектор</string>
+
+    <string name="instructions">Детектор золота — это электронный прибор, который обнаруживает наличие металла поблизости. Детекторы золота полезны для поиска золотых включений, спрятанных внутри предметов, или золотых предметов, зарытых под землей. Это приложение может легко обнаруживать золото и измерять его магнитное поле с помощью встроенного магнитного датчика. Если датчик приближается к куску металла, об этом свидетельствует изменение звука в наушниках или движение стрелки на индикаторе. Он также обнаруживает такие металлы, как железо, никель, медь и латунь, алюминий, свинец, золото, серебро и бронза. Металлодетекторы общего назначения позволяют найти закопанные металлические предметы, такие как ювелирные изделия, монеты и другие металлические предметы. Дискриминация — это процесс, позволяющий различать различные металлические объекты или сплавы.</string>
+    <string name="gold_detector">ДЕТЕКТОР ЗОЛОТА</string>
+    <string name="splash_app_name">Приложение «Детектор золота»</string>
+    <string name="btn_gold">Золото\nДетектор</string>
+    <string name="btn_metal">Металлоискатель</string>
+    <string name="tips_tricks"><![CDATA[Советы и хитрости]]></string>
+    <string name="capital_gold_detector">ЗОЛОТО\n ДЕТЕКТОР</string>
+    <string name="metal_and_gold_finder">Поиск металлов и золота</string>
+    <string name="this_action_may_contain_add">Это действие может содержать добавление</string>
+    <string name="txt_welcome_lorem">Lorem ipsum — это название распространенного типа текста-заполнителя.</string>
+    <string name="continue_button">Продолжать</string>
+    <string name="start_button">Начинать</string>
+    <string name="welcome_app_name">Приложение для металлоискателя золота</string>
+    <string name="choseLanguage">Выберите язык</string>
+    <string name="potential_camera_small_speaker_detected">Обнаружена потенциальная камера/маленький динамик</string>
+    <string name="value1">45:00</string>
+    <string name="value2">45:00</string>
+    <string name="value3">45:00</string>
+    <string name="digital_meter">ЦИФРОВОЙ СЧЕТЧИК</string>
+    <string name="features">Функции</string>
+
+    <string name="analog_meter">АНАЛОГОВЫЙ СЧЕТЧИК</string>
+    <string name="_45_00">45.00</string>
+    <string name="potential">Обнаружена потенциальная камера/маленький динамик</string>
+    <string name="computer_mobile_tv_detected">Обнаружен компьютер/мобильный телефон/телевизор</string>
+    <string name="gold_detctor">Детектор золота:</string>
+    <string name="instruction">инструкции</string>
+    <string name="skip">Завершить</string>
+    <string name="are_you_sure_you_want_to_exit">Вы уверены, что хотите выйти\?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="privacy_policy">политика конфиденциальности</string>
+    <string name="more_apps">Больше приложений</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="languages">Languages</string>
+    <string name="graphs_meter">Графический измеритель</string>
+    <string name="digital_meter_feature">Цифровой измеритель</string>
+    <string name="analog_meter_feature">Аналоговый измеритель</string>
+    <string name="calibration_detector">Калибровочный детектор</string>
+    <string name="gold_detector_feature">Детектор золота</string>
+    <string name="graph_view">Графический вид</string>
+    <string name="potential_camera_small_speaker_detected_graph">Обнаружен потенциальный камера/микрофон</string>
+    <string name="calibration_detection">Определение калибровки</string>
+    <string name="no_potential_camera_detected">Камера не обнаружена</string>
+    <string name="computer_tv_mobile_detected">Обнаружено: компьютер/телевизор/мобильное устройство</string>
+    <string name="potential_small_speaker_detected">Обнаружено: потенциальная камера/маленький динамик</string>
+    <string name="camera_detected">Обнаружена камера</string>
+    <string name="high_radiation_detected">Обнаружено высокое излучение</string>
+    <string name="other_high_radiation_metal_detected">Обнаружено высокое излучение: другой металл</string>
+    <string name="material_detected">Обнаружен материал</string>
+    <string name="potential_material_detected">Обнаружен потенциальный материал</string>
+    <string name="mineral_resources_detected">Обнаружены минеральные ресурсы</string>
+    <string name="instructions1">Детектор золота – это электронный инструмент, который обнаруживает наличие металла поблизости. Детекторы золота полезны для обнаружения включений золота, скрытых в предметах, или золотых объектов, зарытых в земле. Это приложение легко обнаруживает золото и измеряет магнитное поле с помощью встроенного магнитного датчика.</string>
+    <string name="lorem_ipsum_is_a_1">Точное обнаружение металла для точного определения местоположения золота.</string>
+    <string name="lorem_ipsum_is_a_2">Регулируемая чувствительность для настройки предпочтений обнаружения.</string>
+    <string name="lorem_ipsum_is_a_3">Обратная связь в реальном времени и визуальное отображение для удобства.</string>
+    <string name="lorem_ipsum_is_a_4">Удобный интерфейс для простой навигации и использования.</string>
+    <string name="splash_feature">Интеллектуальная технология дискриминации для целевого обнаружения золота с минимальными помехами.</string>
+
+
+</resources>

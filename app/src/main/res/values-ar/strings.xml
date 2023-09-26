@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">جهاز كشف الذهب</string>
+    <string name="hello_blank_fragment">مرحباً بك في الشاشة الفارغة</string>
+    <string name="how_to_use">كيفية الاستخدام؟</string>
+    <string name="open">فتح</string>
+    <string name="close">إغلاق</string>
+    <string name="gold_welcome">مرحبًا بك في تطبيق جهاز كشف الذهب والعثور على الذهب لعام 2022. سيساعدك تطبيق جهاز كشف الذهب والعثور على الذهب على اكتشاف أي ذهب أو معدن ثمين من حولك.</string>
+
+    <string name="instructions">جهاز كشف الذهب هو جهاز إلكتروني يكتشف وجود المعادن بالقرب منه. يعد جهاز كشف الذهب مفيدًا لاكتشاف تضمينات الذهب المخفية داخل الأشياء أو الأجسام المدفونة تحت الأرض. يمكن لهذا التطبيق اكتشاف الذهب بسهولة وقياس حقله المغناطيسي باستخدام جهاز استشعار مغناطيسي مدمج. إذا اقترب الاستشعار من قطعة معدن، يتم الإشارة إليها بتغيير النغمة في سماعات الأذن أو حركة الإبرة على المؤشر. كما يكشف عن المعادن مثل: الحديد والنيكل والنحاس والنحاس والألومنيوم والرصاص والذهب والفضة والبرونز. يمكن أن تكتشف أجهزة الكشف عن المعادن متعددة الأغراض الأجسام المعدنية المدفونة مثل المجوهرات والعملات وغيرها من الأجسام المعدنية. يعد التمييز عملية تمييز بين مختلف أهداف المعادن أو السبائك.</string>
+    <string name="metal_detector">كاشف المعادن</string>
+
+    <string name="gold_detector">جهاز كشف الذهب</string>
+    <string name="splash_app_name">تطبيق جهاز كشف الذهب</string>
+    <string name="btn_gold">جهاز\nكشف الذهب</string>
+    <string name="btn_metal">جهاز كشف المعادن</string>
+    <string name="tips_tricks"><![CDATA[نصائح وحيل]]></string>
+    <string name="capital_gold_detector">جهاز كشف\n الذهب</string>
+    <string name="metal_and_gold_finder">جهاز كشف المعادن والذهب</string>
+    <string name="this_action_may_contain_add">قد يحتوي هذا الإجراء على إعلان</string>
+    <string name="txt_welcome_lorem">يُطلق على هذا النوع من النصوص المؤقتة اسم "لوريم إيبسوم"</string>
+    <string name="continue_button">متابعة</string>
+    <string name="start_button">ابدأ</string>
+    <string name="welcome_app_name">تطبيق جهاز كشف المعادن والذهب</string>
+    <string name="choseLanguage">اختيار اللغة</string>
+    <string name="potential_camera_small_speaker_detected">تم اكتشاف كاميرا/مكبر صوت صغير محتمل</string>
+    <string name="value1">٤٥:٠٠</string>
+    <string name="value2">٤٥:٠٠</string>
+    <string name="value3">٤٥:٠٠</string>
+    <string name="digital_meter">المقياس الرقمي</string>
+    <string name="features">الميزات</string>
+
+    <string name="analog_meter">المقياس التناظري</string>
+    <string name="_45_00">٤٥.٠٠</string>
+    <string name="potential">تم اكتشاف كاميرا/مكبر صوت صغير محتمل</string>
+    <string name="computer_mobile_tv_detected">تم اكتشاف الحاسوب/الجوال/التلفزيون</string>
+    <string name="gold_detctor">كاشف الذهب:</string>
+    <string name="instruction">التعليمات</string>
+    <string name="skip">إنهاء</string>
+    <string name="are_you_sure_you_want_to_exit">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="more_apps">التطبيقات الإضافية</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="languages">اللغات</string>
+    <string name="graphs_meter">مقياس الرسوم البيانية</string>
+    <string name="digital_meter_feature">المقياس الرقمي</string>
+    <string name="analog_meter_feature">المقياس التناظري</string>
+    <string name="calibration_detector">كاشف المعايرة</string>
+    <string name="gold_detector_feature">كاشف الذهب</string>
+    <string name="graph_view">عرض الرسم البياني</string>
+    <string name="potential_camera_small_speaker_detected_graph">اكتشاف كاميرا / مكبر صوت صغير محتمل</string>
+    <string name="calibration_detection">كشف المعايرة</string>
+    <string name="no_potential_camera_detected">لم يتم اكتشاف كاميرا محتملة</string>
+    <string name="computer_tv_mobile_detected">تم الكشف عن كمبيوتر / تلفزيون / هاتف محمول</string>
+    <string name="potential_small_speaker_detected">تم الكشف عن كاميرا محتملة / مكبر صوت صغير</string>
+    <string name="camera_detected">تم الكشف عن كاميرا</string>
+    <string name="high_radiation_detected">تم الكشف عن إشعاع عالي</string>
+    <string name="other_high_radiation_metal_detected">تم الكشف عن معدن آخر يحتوي على إشعاع عالي</string>
+    <string name="material_detected">تم الكشف عن مادة</string>
+    <string name="potential_material_detected">تم الكشف عن مادة محتملة</string>
+    <string name="mineral_resources_detected">تم الكشف عن موارد معدنية</string>
+
+    <string name="instructions1">جهاز كشف الذهب هو جهاز إلكتروني يكتشف وجود المعادن بالقرب منه. تعد أجهزة كشف الذهب مفيدة للعثور على شوائب الذهب المخفية داخل الأجسام، أو الأشياء المدفونة تحت الأرض. يمكن لهذا التطبيق كشف الذهب بسهولة وقياس مجاله المغناطيسي باستخدام جهاز استشعار مغناطيسي مدمج.</string>
+    <string name="lorem_ipsum_is_a_1">كشف معدني دقيق لتحديد موقع الذهب بدقة.</string>
+    <string name="lorem_ipsum_is_a_2">حساسية قابلة للتعديل لتفضيلات الكشف المخصصة.</string>
+    <string name="lorem_ipsum_is_a_3">ردود فعل فورية وعرض بصري للراحة.</string>
+    <string name="lorem_ipsum_is_a_4">واجهة سهلة الاستخدام لسهولة التنقل والاستخدام.</string>
+    <string name="splash_feature">تقنية التمييز الذكي للكشف المستهدف عن الذهب والحد الأدنى من التداخل.</string>
+
+</resources>
+

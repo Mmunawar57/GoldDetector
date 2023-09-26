@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.golddetector.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_featuresFragment"
+            app:destination="@id/featuresFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_how_to_use_fragment"
+            app:destination="@id/how_to_use_fragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_metalFragment"
+            app:destination="@id/metalFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_metalCalibirationFragment"
+            app:destination="@id/metalCalibirationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/featuresFragment"
+        android:name="com.example.golddetector.fragments.FeaturesFragment"
+        android:label="fragment_features"
+        tools:layout="@layout/fragment_features" >
+        <action
+            android:id="@+id/action_featuresFragment_to_graphs_meter_fragment"
+            app:destination="@id/graphs_meter_fragment" />
+        <action
+            android:id="@+id/action_featuresFragment_to_digital_meter_fragment"
+            app:destination="@id/digital_meter_fragment" />
+        <action
+            android:id="@+id/action_featuresFragment_to_analog_meter_fragment"
+            app:destination="@id/analog_meter_fragment" />
+        <action
+            android:id="@+id/action_featuresFragment_to_calibration_detector_fragment"
+            app:destination="@id/calibration_detector_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/how_to_use_fragment"
+        android:name="com.example.golddetector.fragments.How_to_use_fragment"
+        android:label="fragment_how_to_use_fragment"
+        tools:layout="@layout/fragment_how_to_use_fragment" >
+        <action
+            android:id="@+id/action_how_to_use_fragment_to_featuresFragment"
+            app:destination="@id/featuresFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/graphs_meter_fragment"
+        android:name="com.example.golddetector.fragments.Graphs_meter_fragment"
+        android:label="fragment_graphs_meter_fragment"
+        tools:layout="@layout/fragment_graphs_meter_fragment" >
+        <action
+            android:id="@+id/action_graphs_meter_fragment_to_featuresFragment2"
+            app:destination="@id/featuresFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/digital_meter_fragment"
+        android:name="com.example.golddetector.fragments.Digital_meter_fragment"
+        android:label="fragment_digital_meter_fragment"
+        tools:layout="@layout/fragment_digital_meter_fragment" >
+        <action
+            android:id="@+id/action_digital_meter_fragment_to_featuresFragment"
+            app:destination="@id/featuresFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/analog_meter_fragment"
+        android:name="com.example.golddetector.fragments.Analog_meter_fragment"
+        android:label="fragment_analog_meter_fragment"
+        tools:layout="@layout/fragment_analog_meter_fragment" >
+        <action
+            android:id="@+id/action_analog_meter_fragment_to_featuresFragment"
+            app:destination="@id/featuresFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/calibration_detector_fragment"
+        android:name="com.example.golddetector.fragments.Calibration_detector_fragment"
+        android:label="fragment_calibration_detector_fragment"
+        tools:layout="@layout/fragment_calibration_detector_fragment" >
+        <action
+            android:id="@+id/action_calibration_detector_fragment_to_featuresFragment"
+            app:destination="@id/featuresFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/metalFragment"
+        android:name="com.example.golddetector.fragments.MetalFragment"
+        android:label="fragment_metal"
+        tools:layout="@layout/fragment_metal" >
+        <action
+            android:id="@+id/action_metalFragment_to_metalCalibirationFragment"
+            app:destination="@id/metalCalibirationFragment" />
+        <action
+            android:id="@+id/action_metalFragment_to_metalAnalogFragment"
+            app:destination="@id/metalAnalogFragment" />
+        <action
+            android:id="@+id/action_metalFragment_to_metalDigitalFragment"
+            app:destination="@id/metalDigitalFragment" />
+        <action
+            android:id="@+id/action_metalFragment_to_metalGraphFragment"
+            app:destination="@id/metalGraphFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/metalDigitalFragment"
+        android:name="com.example.golddetector.fragments.MetalDigitalFragment"
+        android:label="fragment_metal_digital"
+        tools:layout="@layout/fragment_metal_digital" >
+        <action
+            android:id="@+id/action_metalDigitalFragment_to_metalFragment"
+            app:destination="@id/metalFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/metalAnalogFragment"
+        android:name="com.example.golddetector.fragments.MetalAnalogFragment"
+        android:label="fragment_metal_analog"
+        tools:layout="@layout/fragment_metal_analog" />
+    <fragment
+        android:id="@+id/metalCalibirationFragment"
+        android:name="com.example.golddetector.fragments.MetalCalibirationFragment"
+        android:label="fragment_metal_calibiration"
+        tools:layout="@layout/fragment_metal_calibiration" >
+        <action
+            android:id="@+id/action_metalCalibirationFragment_to_metalFragment"
+            app:destination="@id/metalFragment" />
+        <action
+            android:id="@+id/action_metalCalibirationFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/metalGraphFragment"
+        android:name="com.example.golddetector.MetalGraphFragment"
+        android:label="fragment_metal_graph"
+        tools:layout="@layout/fragment_metal_graph" >
+        <action
+            android:id="@+id/action_metalGraphFragment_to_metalFragment"
+            app:destination="@id/metalFragment" />
+    </fragment>
+</navigation>

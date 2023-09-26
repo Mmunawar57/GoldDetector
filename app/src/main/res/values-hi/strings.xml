@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">गोल्ड डिटेक्टर</string>
+    <!-- TODO: इस प्लेसहोल्डर टेक्स्ट को हटाएं या बदलें -->
+    <string name="hello_blank_fragment">नमस्ते खाली फ़्रेग्मेंट</string>
+    <string name="how_to_use">कैसे उपयोग करें?</string>
+    <string name="open">खोलें</string>
+    <string name="close">बंद करें</string>
+    <string name="gold_welcome">गोल्ड डिटेक्टर और गोल्ड फाइंडर ऐप 2022 में आपका स्वागत है।\n गोल्ड डिटेक्टर और गोल्ड फाइंडर ऐप\n आपकी सहायता करेगा गोल्ड का पता लगाने में,\n आपके आसपास स्थित स्टड</string>
+    <string name="metal_detector">मेटल डिटेक्टर</string>
+
+    <string name="instructions">गोल्ड डिटेक्टर एक इलेक्ट्रॉनिक उपकरण है जो पास में मेटल की मौजूदगी का पता लगाता है। गोल्ड डिटेक्टर वस्तुओं में छिपे सोने के समावेश का पता लगाने में मदद करते हैं, या भूमिमें गहरे में छिपे सोने के वस्तुओं का पता लगाने में मदद करते हैं। यह ऐप आसानी से सोने का पता लगा सकती है और इसका मात्रीय फ़ील्ड को एक संबद्ध चुंबकीय संवेदक के साथ मापती है। यदि संवेदक किसी मेटल के टुकड़े के पास आता है, तो इसे कान में टोन में परिवर्तन द्वारा सूचित किया जाता है, या एक संकेतक पर नीडल मोड़ने से। यह यह भी मेटल्स का पता लगाता है: आयरन, निकल, तांबा, और पीतल, एल्युमिनियम, सीसा, सोना, चांदी और पीतल। सामान्य उद्देश्य वाले मेटल डिटेक्टर्स ज्वेलरी, सिक्के और अन्य मेटल वस्तुओं जैसी गहनों और अन्य मेटल वस्तुओं को छिपा हुआ पानी सकते हैं। विवेक विवेक एक प्रक्रिया है जो विभिन्न मेटल लक्ष्यों या आलॉय्स के बीच भिन्न करती है।</string>
+    <string name="gold_detector">गोल्ड डिटेक्टर</string>
+    <string name="splash_app_name">गोल्ड डिटेक्टर ऐप</string>
+    <string name="btn_gold">गोल्ड\nडिटेक्टर</string>
+    <string name="btn_metal">मेटल डिटेक्टर</string>
+    <string name="tips_tricks"><![CDATA[टिप्स और ट्रिक्स]]></string>
+    <string name="capital_gold_detector">गोल्ड\nडिटेक्टर</string>
+    <string name="metal_and_gold_finder">मेटल और गोल्ड फाइंडर</string>
+    <string name="this_action_may_contain_add">यह क्रिया विज्ञापन शामिल कर सकती है</string>
+    <string name="txt_welcome_lorem">लोरेम इप्सम एक सामान्य प्रकार के प्लेसहोल्डर टेक्स्ट के लिए एक नाम है</string>
+    <string name="continue_button">जारी रखें</string>
+    <string name="start_button">शुरू करें</string>
+    <string name="welcome_app_name">गोल्ड मेटल डिटेक्टर ऐप</string>
+    <string name="choseLanguage">भाषा चुनें</string>
+    <string name="potential_camera_small_speaker_detected">संभावित कैमरा/छोटे स्पीकर का पता लगाया गया</string>
+    <string name="value1">४५:००</string>
+    <string name="value2">४५:००</string>
+    <string name="value3">४५:००</string>
+    <string name="digital_meter">डिजिटल मीटर</string>
+    <string name="features">विशेषताएँ</string>
+
+    <string name="analog_meter">एनालॉग मीटर</string>
+    <string name="_45_00">४५.००</string>
+    <string name="potential">संभावित कैमरा/छोटे स्पीकर का पता लगाया गया</string>
+    <string name="computer_mobile_tv_detected">कंप्यूटर/मोबाइल/टीवी का पता लगाया गया</string>
+    <string name="gold_detctor">गोल्ड डिटेक्टर:</string>
+    <string name="instruction">निर्देश</string>
+    <string name="skip">समाप्त</string>
+    <string name="are_you_sure_you_want_to_exit">क्या आप निश्चित हैं कि आप बाहर निकलना चाहते हैं?</string>
+    <string name="no">नहीं</string>
+    <string name="yes">हाँ</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="more_apps">और ऐप्स</string>
+    <string name="rate_us">हमें रेटिंग दें</string>
+    <string name="languages">भाषाएं</string>
+    <string name="graphs_meter">ग्राफ मीटर</string>
+    <string name="digital_meter_feature">डिजिटल मीटर</string>
+    <string name="analog_meter_feature">एनालॉग मीटर</string>
+    <string name="calibration_detector">कैलिब्रेशन डिटेक्टर</string>
+    <string name="gold_detector_feature">सोने का डिटेक्टर</string>
+    <string name="graph_view">ग्राफ दृश्य</string>
+    <string name="potential_camera_small_speaker_detected_graph">संभावित कैमरा/छोटे स्पीकर का पता लगाया गया</string>
+    <string name="calibration_detection">तराजू मापने की पहचान</string>
+    <string name="no_potential_camera_detected">कोई संभावित कैमरा नहीं पाया गया</string>
+    <string name="computer_tv_mobile_detected">कंप्यूटर/टीवी/मोबाइल पाया गया</string>
+    <string name="potential_small_speaker_detected">संभावित कैमरा / छोटे स्पीकर पाये गए</string>
+    <string name="camera_detected">कैमरा पाया गया</string>
+    <string name="high_radiation_detected">उच्च विकर्णन पाया गया</string>
+    <string name="other_high_radiation_metal_detected">अन्य उच्च विकर्णन धातु पाया गया</string>
+    <string name="material_detected">सामग्री पायी गयी</string>
+    <string name="potential_material_detected">संभावित सामग्री पायी गयी</string>
+    <string name="mineral_resources_detected">खनिज संसाधन पाये गए</string>
+
+    <string name="instructions1">गोल्ड डिटेक्टर एक इलेक्ट्रॉनिक उपकरण है जो पास में मेटल की उपस्थिति का पता लगाता है। गोल्ड डिटेक्टर सामग्री में छिपे सोने के इंक्लूजन्स का पता लगाने या पृथ्वी के नीचे गोल्ड सामग्री का पता लगाने में सहारा प्रदान करते हैं। यह ऐप आसानी से सोने का पता लगा सकता है और इसमें एक लगभग संबद्ध चुंबकीय संवेदक के साथ इसकी मानक फ़ील्ड की माप करता है।</string>
+    <string name="lorem_ipsum_is_a_1">सटीक सोने की स्थानांतरण के लिए सटीक मेटल पहचान।</string>
+    <string name="lorem_ipsum_is_a_2">अनुकूलित पहचान प्राथमिकताओं के लिए समायोजन योग्यता।</string>
+    <string name="lorem_ipsum_is_a_3">सुविधा के लिए वास्तविक समय प्रतिसाद और दृश्य प्रदर्शन।</string>
+    <string name="lorem_ipsum_is_a_4">आसान नेविगेशन और उपयोग के लिए उपयोगकर्ता अनुकूल इंटरफ़ेस।</string>
+    <string name="splash_feature">लक्षित सोने की पहचान और न्यूनतम प्रभाव के लिए बुद्धिमान प्रतिक्रिया प्रौद्योगिकी।</string>
+
+</resources>

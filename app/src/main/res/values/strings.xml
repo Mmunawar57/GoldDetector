@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Gold Detector</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="how_to_use">How to use?</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="gold_welcome">Welcome to Gold Detector &amp; Gold Finder app 2022.\n Gold Detector &amp; Gold Finder app\n will help you to detect any Gold,\nstud around you</string>
+
+    <string name="instructions">If the sensor comes near a piece of metal this is indicated by a changing tone in earphones, or a needle moving on an indicator. It also detects metals such as: iron, nickel, copper, and brass, aluminum lead, gold, silver and bronze. General-purpose metal detectors can find buried metal objects such as jewelry, coins and other metal objects. Discrimination is a process that distinguishes between different metal targets or alloys.</string>
+    <string name="gold_detector">GOLD DETECTOR</string>
+    <string name="splash_app_name">Gold Detector App</string>
+    <string name="btn_gold">Gold\nDetector</string>
+    <string name="btn_metal">Metal Detector</string>
+    <string name="tips_tricks"><![CDATA[Tips & Tricks]]></string>
+    <string name="capital_gold_detector">GOLD\n DETECTOR</string>
+    <string name="metal_and_gold_finder">Metal and Gold Finder</string>
+    <string name="this_action_may_contain_add">This action may contain add</string>
+    <string name="txt_welcome_lorem">Advanced Signal Processing for Enhanced Gold Detection Precision.</string>
+    <string name="continue_button">Continue</string>
+
+    <string name="start_button">Start</string>
+    <string name="welcome_app_name">Gold Metal Detector App</string>
+    <string name="choseLanguage">Select Language</string>
+    <string name="potential_camera_small_speaker_detected">Potential camera/small speaker detected</string>
+    <string name="value1">45:00</string>
+    <string name="value2">45:00</string>
+    <string name="value3">45:00</string>
+    <string name="digital_meter">DIGITAL METER</string>
+    <string name="features">Features</string>
+
+    <string name="instructions1"> A gold detector is an electronic instrument which detects the presence of metal nearby. Gold detectors are useful for finding gold inclusions hidden within objects, or gold objects buried underground. This App can easily Detect gold and its measures magnetic field with an embedded magnetic sensor.</string>
+    <string name="lorem_ipsum_is_a_1">Precise metal detection for accurate gold localization.</string>
+    <string name="lorem_ipsum_is_a_2">Adjustable sensitivity for customized detection preferences.</string>
+    <string name="lorem_ipsum_is_a_3">Real-time feedback and visual display for convenience.</string>
+    <string name="lorem_ipsum_is_a_4">User-friendly interface for easy navigation and usage.</string>
+    <string name="splash_feature">Intelligent Discrimination Technology for Targeted Gold Detection and Minimal Interference.</string>
+
+
+    <string name="analog_meter">ANALOG METER</string>
+    <string name="_45_00">45.00</string>
+    <string name="potential">Potential camera/small speaker detected</string>
+    <string name="computer_mobile_tv_detected">Computer/Mobile/TV Detected</string>
+    <string name="gold_detctor">Gold Detctor:</string>
+    <string name="instruction">Instructions</string>
+    <string name="skip">Finish</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="more_apps">More Apps</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="languages">Languages</string>
+    <string name="graphs_meter">Graphs Meter</string>
+    <string name="digital_meter_feature">Digital Meter</string>
+    <string name="analog_meter_feature">Analog Meter</string>
+    <string name="calibration_detector">Calibration Detector</string>
+    <string name="gold_detector_feature">GOLD DETECTOR</string>
+    <string name="graph_view">Graph View</string>
+    <string name="potential_camera_small_speaker_detected_graph">Potential camera/small speaker detected</string>
+    <string name="calibration_detection">CALIBRATION DETECTION</string>
+    <string name="no_potential_camera_detected">No Potential Camera Detected</string>
+    <string name="computer_tv_mobile_detected">Computer/TV/Mobile Detected</string>
+    <string name="potential_small_speaker_detected">Potential Camera / Small Speaker Detected</string>
+    <string name="camera_detected">Camera Detected</string>
+    <string name="high_radiation_detected">High Radiation Detected</string>
+    <string name="other_high_radiation_metal_detected">Other High Radiation Metal Detected</string>
+    <string name="material_detected">Material Detected</string>
+    <string name="potential_material_detected">Potential Material Detected</string>
+    <string name="mineral_resources_detected">Mineral Resources Detected</string>
+    <string name="metal_detector">Metal Detector</string>
+
+</resources>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">金探测器</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好，空白片段</string>
+    <string name="how_to_use">如何使用？</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="gold_welcome">欢迎使用金探测器和金探测器应用 2022。\n 金探测器应用\n 将帮助您探测周围的黄金、金属</string>
+
+    <string name="instructions">金探测器是一种电子仪器，可检测附近的金属物质。金探测器对于发现隐藏在物体中的金属内含物或埋藏在地下的黄金物体非常有用。此应用可以轻松检测金属并测量其磁场，配有嵌入式磁传感器。如果传感器靠近金属物体，耳机中的音调会发生变化，或者指示器上的指针会移动。它还可以检测铁、镍、铜、黄铜、铝、铅、金、银和青铜等金属。通用金属探测器可以发现埋藏的金属物体，如珠宝、硬币和其他金属物体。区分是一种区分不同金属目标或合金的过程。</string>
+    <string name="gold_detector">金探测器</string>
+    <string name="splash_app_name">金探测器应用</string>
+    <string name="btn_gold">金\n探测器</string>
+    <string name="btn_metal">金属探测器</string>
+    <string name="tips_tricks"><![CDATA[提示和技巧]]></string>
+    <string name="capital_gold_detector">金\n探测器</string>
+    <string name="metal_and_gold_finder">金属和黄金探测器</string>
+    <string name="this_action_may_contain_add">此操作可能包含广告</string>
+    <string name="txt_welcome_lorem">Lorem ipsum 是常见的占位符文本名称</string>
+    <string name="continue_button">继续</string>
+    <string name="start_button">开始</string>
+    <string name="welcome_app_name">金属探测器应用</string>
+    <string name="choseLanguage">选择语言</string>
+    <string name="potential_camera_small_speaker_detected">检测到潜在摄像头/小音响</string>
+    <string name="value1">45:00</string>
+    <string name="value2">45:00</string>
+    <string name="value3">45:00</string>
+    <string name="digital_meter">数字仪表</string>
+    <string name="features">特点</string>
+    <string name="analog_meter">模拟仪表</string>
+    <string name="_45_00">45.00</string>
+    <string name="potential">检测到潜在摄像头/小音响</string>
+    <string name="computer_mobile_tv_detected">检测到电脑/手机/电视</string>
+    <string name="gold_detctor">金探测器：</string>
+    <string name="instruction">说明</string>
+    <string name="skip">完成</string>
+    <string name="are_you_sure_you_want_to_exit">您确定要退出吗？</string>
+    <string name="no">否</string>
+    <string name="yes">是</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="more_apps">更多应用</string>
+    <string name="rate_us">评价我们</string>
+    <string name="languages">语言</string>
+    <string name="metal_detector">金属探测器</string>
+
+    <string name="graphs_meter">图表仪表</string>
+    <string name="digital_meter_feature">数字仪表</string>
+    <string name="analog_meter_feature">模拟仪表</string>
+    <string name="calibration_detector">校准探测器</string>
+    <string name="gold_detector_feature">金属探测器</string>
+    <string name="graph_view">图表视图</string>
+    <string name="potential_camera_small_speaker_detected_graph">可能的摄像头/小音箱检测图</string>
+    <string name="calibration_detection">校准检测</string>
+    <string name="no_potential_camera_detected">未检测到潜在摄像头</string>
+    <string name="computer_tv_mobile_detected">检测到计算机/电视/移动设备</string>
+    <string name="potential_small_speaker_detected">检测到潜在摄像头/小音箱</string>
+    <string name="camera_detected">检测到摄像头</string>
+    <string name="high_radiation_detected">检测到高辐射</string>
+    <string name="other_high_radiation_metal_detected">检测到其他高辐射金属</string>
+    <string name="material_detected">检测到物质</string>
+    <string name="potential_material_detected">检测到潜在物质</string>
+    <string name="mineral_resources_detected">检测到矿产资源</string>
+    <string name="instructions1">金属探测器是一种电子仪器，用于检测附近金属的存在。金属探测器可用于查找隐藏在物体内的金属包裹或埋藏在地下的金属物体。此应用程序可以轻松检测金属，并通过嵌入的磁感应器测量磁场。</string>
+    <string name="lorem_ipsum_is_a_1">精准的金属检测，准确定位金属。</string>
+    <string name="lorem_ipsum_is_a_2">可调灵敏度，适应个性化的检测偏好。</string>
+    <string name="lorem_ipsum_is_a_3">实时反馈和可视化显示，方便快捷。</string>
+    <string name="lorem_ipsum_is_a_4">用户友好的界面，易于导航和使用。</string>
+    <string name="splash_feature">智能判别技术，用于定向金属检测，减少干扰。</string>
+
+
+
+</resources>

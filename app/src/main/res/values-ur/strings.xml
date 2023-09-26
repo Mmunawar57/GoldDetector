@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">سونے کا ڈیٹیکٹر</string>
+    <string name="hello_blank_fragment">ہیلو خالی فریگمنٹ</string>
+    <string name="how_to_use">استعمال کیسے کریں؟</string>
+    <string name="open">کھولیں</string>
+    <string name="close">بند کریں</string>
+    <string name="gold_welcome">سونے کا ڈیٹیکٹر اور سونے کا تلاش کار ایپ 2022 میں خوش آمدید۔
+ سونے کا ڈیٹیکٹر اور سونے کا تلاش کار ایپ آپ کو مدد فرمائے گی تاکہ آپ کے آسپاس کسی بھی سونے یا دھات کو پہچان سکیں۔</string>
+    <string name="instructions">سونے کا ڈیٹیکٹر ایک الیکٹرانک آلہ ہے جو قریبی میں میٹل کی موجودگی کو دریافت کرتا ہے۔ سونے کا ڈیٹیکٹر میں مخفی اشیاء میں سونے کی شاملیں چھپی ہوئیں یا زمین میں دبا ہوا سونے کا متعارف کرنے کے لئے مفید ہے۔ یہ ایپ آسانی سے سونے کی پہچان کرتی ہے اور اس کے ساتھ ہیمیٹک فیلڈ کا اندرونی جازب کرتی ہے۔ اگر سینسر کسی دھات کے ٹکڑے کے قریب آتا ہے، تو اسے اسیرے میں توجہ تبدیل ہونے سے ظاہر کیا جاتا ہے، یا اشارہکار پر نیڈل میں حرکت کے ذریعے۔ یہ دھاتوں کی شناخت کرتا ہے، جیسا: لوہا، نکل، کاپر، اور پیتل، الومنیم لیڈ، سونا، چاندی اور کانسی۔ عام استعمال کے میٹل ڈیٹیکٹر طلاقہ، سکے اور دوسرے میٹل اشیاء جیسے کہ زیور، سکے اور دوسرے میٹل اشیاء دبے میں چھپے ہوئے میٹل اشیاء کا پتہ لگا سکتے ہیں۔ تمیز ایک عمل ہے جو مختلف میٹل ہدف یا آلائیوں کے درمیان فرق کرتا ہے۔</string>
+    <string name="gold_detector">سونے کا ڈیٹیکٹر</string>
+    <string name="splash_app_name">سونے کا ڈیٹیکٹر ایپ</string>
+    <string name="btn_gold">سونا\n ڈیٹیکٹر</string>
+    <string name="btn_metal">میٹل ڈیٹیکٹر</string>
+    <string name="metal_detector">دھات کا ڈیٹیکٹر</string>
+
+    <string name="tips_tricks"><![CDATA[مشورے اور ٹرکس]]></string>
+    <string name="capital_gold_detector">سونا\n ڈیٹیکٹر</string>
+    <string name="metal_and_gold_finder">میٹل اور سونے کا تلاش کار</string>
+    <string name="this_action_may_contain_add">یہ عمل اشتہارات شامل کر سکتا ہے</string>
+    <string name="txt_welcome_lorem">لورم اپسم عام نوع کے پلاسہولڈر ٹیکسٹ کا نام ہے</string>
+    <string name="continue_button">جاری رکھیں</string>
+    <string name="start_button">شروع کریں</string>
+    <string name="welcome_app_name">سونے کا دھات ڈیٹیکٹر ایپ</string>
+    <string name="choseLanguage">زبان منتخب کریں</string>
+    <string name="potential_camera_small_speaker_detected">ممکنہ کیمرہ / چھوٹا اسپیکر دریافت ہوگیا</string>
+    <string name="value1">45:00</string>
+    <string name="value2">45:00</string>
+    <string name="value3">45:00</string>
+    <string name="digital_meter">ڈیجیٹل میٹر</string>
+    <string name="features">خصوصیات</string>
+
+    <string name="analog_meter">آنالوگ میٹر</string>
+    <string name="_45_00">45.00</string>
+    <string name="potential">ممکنہ کیمرہ / چھوٹا اسپیکر دریافت ہوگیا</string>
+    <string name="computer_mobile_tv_detected">کمپیوٹر / موبائل / ٹی وی دریافت ہوگیا</string>
+    <string name="gold_detctor">سونے کا ڈیٹیکٹر:</string>
+    <string name="instruction">ہدایات</string>
+    <string name="skip">مکمل</string>
+    <string name="are_you_sure_you_want_to_exit">کیا آپ واقعی باہر نکلنا چاہتے ہیں؟</string>
+    <string name="no">نہیں</string>
+    <string name="yes">جی ہاں</string>
+    <string name="privacy_policy">پرائیویسی پالیسی</string>
+    <string name="more_apps">مزید ایپس</string>
+    <string name="rate_us">ہمیں درجہ دیں</string>
+    <string name="languages">زبانیں</string>
+   <string name="graphs_meter">گراف میٹر</string>
+   <string name="digital_meter_feature">ڈیجیٹل میٹر</string>
+   <string name="analog_meter_feature">آنالوگ میٹر</string>
+   <string name="calibration_detector">کیلیبریشن ڈیٹیکٹر</string>
+   <string name="gold_detector_feature">سونے کا ڈیٹیکٹر</string>
+    <string name="graph_view">نمائش گراف</string>
+    <string name="potential_camera_small_speaker_detected_graph">ممکنہ کیمرا/چھوٹے اسپیکر کا دریافت</string>
+    <string name="calibration_detection">کیلیبریشن کا دریافت</string>
+    <string name="no_potential_camera_detected">کوئی ممکنہ کیمرا دریافت نہیں ہوا</string>
+    <string name="computer_tv_mobile_detected">کمپیوٹر/ٹی وی/موبائل دریافت ہوا</string>
+    <string name="potential_small_speaker_detected">ممکنہ کیمرا/چھوٹے اسپیکر دریافت ہوا</string>
+    <string name="camera_detected">کیمرا دریافت ہوا</string>
+    <string name="high_radiation_detected">زیادہ ریڈیائیشن دریافت ہوا</string>
+    <string name="other_high_radiation_metal_detected">دوسرے زیادہ ریڈیائیشن والے دھاتیں دریافت ہوئیں</string>
+    <string name="material_detected">مواد دریافت ہوا</string>
+    <string name="potential_material_detected">ممکنہ مواد دریافت ہوا</string>
+    <string name="mineral_resources_detected">معدنی وسائل دریافت ہوئیں</string>
+
+    <string name="instructions1">ایک سونے کا ڈیٹیکٹر ایک الیکٹرانک آلہ ہے جو قریبی میں دھات کی موجودگی کا پتہ لگاتا ہے۔ سونے کے ڈیٹیکٹر استعمالی ہیں تاکہ مضمونوں میں چھپی سونے کی شاملیوں یا زمین کے نیچے دفن شدہ سونے کی شئے کا پتہ لگایا جا سکے۔ یہ ایپ آسانی سے سونا پتہ لگا سکتی ہے اور اس کے ساتھ ایک مضموناتی میگنیٹک سینسر کے ساتھ مقناطیسی شدت کو ناپتی ہے۔</string>
+    <string name="lorem_ipsum_is_a_1">درست سونے کا مقام معلوم کرنے کے لئے دھات کی پرکیشان میٹل ڈیٹیکشن۔</string>
+    <string name="lorem_ipsum_is_a_2">شخصیت کے مطابقت کے لئے ترتیب پذیر سینسیٹوٹی۔</string>
+    <string name="lorem_ipsum_is_a_3">حقیقتی وقت میں فیڈبیک اور وزوئل ڈسپلے کی مدد سے آسانی کے لئے۔</string>
+    <string name="lorem_ipsum_is_a_4">صارف کے لئے دوستانہ انٹرفیس جلے آسانی اور استعمال کے لئے۔</string>
+    <string name="splash_feature">ہدف سونے کی پذیرائی اور کم تداخل کے لئے ذکاءتی تشخص فنون۔</string>
+
+
+</resources>

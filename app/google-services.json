@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375613805509",
+    "project_id": "gold-detector-66279",
+    "storage_bucket": "gold-detector-66279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375613805509:android:856cb3b4dc75a1006c31ac",
+        "android_client_info": {
+          "package_name": "com.bitz.find.gold.scan.detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375613805509-0kq43fhfn82h3uohtatk4q6s4r2k631a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIULraK0clg0MZeEcN7yD88MbvjW0KjaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375613805509-0kq43fhfn82h3uohtatk4q6s4r2k631a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
